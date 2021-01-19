@@ -372,8 +372,11 @@
     <dimen name="search_row_small_icon_size">32dp</dimen>
     <dimen name="padded_rounded_button_padding">8dp</dimen>
 
-<!-- For Themed icon support -->
+    <!-- For Themed icon support -->
     <dimen name="theme_icon_size">24dp</dimen>
+
+    <!-- Search box radius -->
+    <dimen name="bg_searchbox_radius">1000dp</dimen>
 
     <dimen name="overview_scroll_scale">0.9</dimen>
 
